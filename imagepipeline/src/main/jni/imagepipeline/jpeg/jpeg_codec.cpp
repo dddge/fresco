@@ -11,6 +11,7 @@
 #include <iterator>
 
 #include <stdio.h>
+#include <string.h>
 #include <setjmp.h>
 
 #include <jni.h>
